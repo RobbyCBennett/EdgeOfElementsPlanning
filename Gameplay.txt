@@ -16,7 +16,7 @@ Weapons and Equipment:
 	Woodland Brigandine (Required)
 	Woodland Shield (Required)
 
-Powers:
+Possible Powers:
 	Red: Bleeding
 	Orange: Fire (Damages enemies over time)
 	Yellow: Lightning

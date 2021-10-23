@@ -1,0 +1,137 @@
+Bewitched Ivy (Vine)
+	Bewitched ivy is everywhere. On the ground, walls, and trees, it ensnares you. Try to hit it with your weapon, and it will take it. It will eventually throw it at you.
+Strengths: Binding, Disarming
+Weaknesses: Fire
+
+Saturn Fly Traps (Vine)
+	While it is weak, it spits poison at you and does a lot of damage if it bites you. Cut its vine after a missed or blocked bite. There is magic ivy at its base, if you get too close.
+Strengths: Sneaky, Binding
+Weaknesses: Fire, Slashing
+
+Whacking Willow (Vine)
+	An ancient giant tree that quickly spins its limbs everywhere. Chop off its limbs before they whomp you.
+Weaknesses: Fire, Axe
+
+Goblins (None)
+	Sneaky, fast, and evil. Goblins wield jagged daggers and usually appear in hoardes.
+Strengths: Numbers, Sneaky, Fast
+Weaknesses: Low Health
+
+Goblin Warlocks (None)
+	Rolls boulders at you with magic. Usually you wll be distracted by a goblin hoarde by the time their boulders crush you all.
+Strengths: Sneaky, Fast, Ranged
+Weaknesses: Low Health
+
+Time Goblins (None)
+	Sneaky, fast, and evil. Time goblins have time crystals, and can essentially heal enemies. Goblins wield jagged daggers and usually appear in hoardes. Find him first and destroy the crystal before another goblin takes it.
+Strengths: Support, Numbers, Sneaky, Fast
+Weaknesses: Low Health
+
+Orcs (None)
+	He has hair everywhere but on his head. That's why he's so angry. Slower, louder, and beefier than goblins. They usually wield battle axes or bows.
+Strengths: Armor, Strong Attacks
+Weaknesses: Slow
+
+Troll (None)
+	He has hair everywhere but on his head. That's why he's so angry. Slower, louder, and beefier than trolls. They need no weapons. Their bodies are weapons.
+Strengths: Health, Strong Attacks, Knockback
+Weaknesses: Slow
+
+Giant Spiders (None)
+	Silent and crawling around on webs. Touch the web and you'll get trapped. If you don't get out, they will wrap you up and eat you. Get too close and they will jump at you and poison you. Block while it's pouncing, then aim for the head.
+Strengths: Gradual Damage, Webs
+Weaknesses: Slow
+
+Wolf Archers (None)
+	Gray or black wolffolk. Will shoot you from far away. If you get close, they will snap their bows with their teeth and go savage. You can't block them. Slash them in the correct direction while they pounce.
+Strengths: Ranged, Viscious
+Weaknesses: No Armor
+
+Frost Wolf Archers (Water/Ice)
+	White wolffolk. Will shoot you with ice arrows from far away. If you get close, they will snap their bows with their teeth and go savage. You can't block them. Slash them in the correct direction while they pounce.
+Strengths: Ranged, Viscious
+Weaknesses: No Armor
+
+Lizardfolk
+	A quick foe with a forked tongue and a sword breaker. Wields a longsword in one hand and a sword breaker in the other. A sword breaker is a toothed dagger that catches blades. If he catches your blade and grabs it before you disengage, he takes your weapon and uses it against you.
+Strengths: Quick, Disarming
+Weaknesses: Weak, Lightning
+
+Armored Lizardfolk
+	A heavily armored foe with a forked tongue and a sword breaker. It is slower than most lizardfolk. Wields a longsword in one hand and a sword breaker in the other. A sword breaker is a toothed dagger that catches blades. If he catches your blade and grabs it before you disengage, he takes your weapon and uses it against you.
+Strengths: Armor, Disarming
+Weaknesses: Slow, Lightning
+
+Merfolk (Water/Ice)
+	They are beautiful and majestic creatures with shining scales. They will sneak up to you, or lure you to them. Then, they will stab you with a harpoon and drag you down underwater with chains and drown you.
+Strengths: Sneaky, Captivating, Drowning
+Weaknesses: Lightning
+
+Squidbat (Water/Ice)
+	While they're chilling on the ceiling, they will leak water down. If you pay attention, you'll notice the dripping.
+	If you don't and you walk under them, they'll drop down immediately and land on your face, gouge out your eyes, choke your neck with tentacles, and just ruin your plans for the evening. If you dodge it, it takes a while for it to get up and fly. Then it will shoot ink at you and try to get on your face.
+Strengths: Sneaky, Attaching, Binding, Blinding
+Weaknesses: Lightning
+
+Swordshark (Water/Ice)
+	Stupid fast. They pierce you, then eat you.
+Strengths: Fast
+Weaknesses: Lightning
+
+Flame Phantom (Shadow)
+	Completely invisible unless smitten, with the exception of their black iron weapons and purple flame attacks. When smitten, you see an ancient translucent white specter. They carry a large variety of black iron weapons, which ignites with each attack. You have to use light and accuracy to defeat them.
+Strengths: Invisible, Blinding, Gradual Damage
+Weaknesses: Light
+
+Blade Wraith (Shadow)
+	These are small shadow beings with 2 forms covered with armor and sword arms. They have slow movement speed and fast rotation and melee speed. Wait for them to stop spinning and use light to defeat them.
+Strengths: Melee Speed, Armor
+Weaknesses: Light, Ranged Lightning, Timing
+
+Frost Spider (Water/Ice)
+	Touch the web and you're stuck unless you can wiggle out. You must do so quickly, because if it gets to you while you're webbed, it will wrap you up and kill you. If it pounces on you, it will try to sting you and freeze you. Block while it's pouncing, then aim for the head.
+Strengths: Ice Webs, Freezing
+Weaknesses: Fire
+
+Flame Skeleton (Fire)
+	A re-animated skeleton with a constant torch inside its skull and ribcage. Its chopped off limbs can come back together. Put out the fire. Attacks you with a fire weapon, and also breathes fire.
+Strengths: Healing
+Weaknesses: Water & Ice
+
+Spine Tortoise (None)
+	Slow to react, but covered in spines, it trys to place itself in your way. When you are far away, it will slide towards you and bounce off of walls. Wait until it pops out, slice underneath to flip it on its belly and defeat it.
+Strengths: Armor
+Weaknesses: Timing
+
+Chainveil (Shadow)
+	Invisible specters that hide behind veils. There may be many veils in front of windows, and you can find them by seeing a faint glistening of chainmail. If you don't notice it and get too close, it grabs you and binds you in chainmail. It waits for some enemy to attack you, then releases you. You can also eventually escape it.
+Strengths: Hidden, Binding
+Weaknesses: Fire, Light
+
+Cursed Skull (Shadow)
+	Floating iredescent skulls. Some of them even have white helmets. They shoot purple flames at you, damaging you and making you unable to use magic for a short time.
+Strengths: Hidden, Cursing
+Weaknesses: Light
+
+Giant Scorpion (None)
+	Needs no description. It is death.
+Strengths: Armor, Reach, Gradual Damage, Melee Speed
+Weaknesses: Movement Speed, Weak Joints
+
+Shadow Hand (Shadow)
+	Covered in tatoos, it has a giant eye in the palm. It can create weapons to destroy you. It can also grab, crush, throw, punch, pound, or slap.
+Strengths: Range, Speed, Variety
+Weaknesses: Light, Timing, Eye
+
+Spitting Elobra (Various)
+	Spits an element at you, which is different depending on where it is. It may project fire, ice, lightning, or shadow.
+
+Thundipede (Lightning)
+	Digs around in tunnels. It can create a sand whirlpool. It also can curl up and go into a protective lightning mode.
+Strengths: Binding
+Weaknesses: Timing, Slow
+
+Hemowalker (Blood)
+	Reanimated soldier of death. They are heavily armored. Though they are slow, they gather in hoardes. They will latch onto you with their claws and teeth. They suck your blood and gain health, and even max health. Kill them all and you can use vampiric healing.
+Strengths: Healing, Numbers, Armor
+Weaknesses: Fire

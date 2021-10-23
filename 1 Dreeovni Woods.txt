@@ -22,20 +22,21 @@ Another Lad: "But mister, aren't you blind?"
 Old Storyteller: "I think that's enough stories for tonight."
 (Choose Abroad)
 "I do not remember a time when there was peace, though we were far closer to it under the rule of the king. The world has been at war for far too long. The Witch Queen now has soverance over most of the Sky Realm. The loyalty of her servants is undeniable. They have unnatural lives, and no mercy. I visited another island and was confronted by her soldiers. I barely got away with my life, and I was left with this insignia."
-He holds up a tattered remain of a black flag with a glistening purple eye.
+He holds up a tattered remain of a black flag with a glistening crimson eye.
 Pirate Lass: "Ooo what a pretty pattern. But why are your stories always about evil women?"
 Old Storyteller: "I think that's enough stories for tonight."
 
 Shop: Creepy Teenage Potion Lad
 "Hey, you want some of the good stuff? I'm the only one here who can hook you up with the best."
 Potion of Healing I
+Poison Antedote I
 
 Shop: Blacksmith
 "I don't have a lot left, after most of the men of the village left to fight."
 Leather Armor
 
 Main story:
-For the axe, you can find a way to climb on top of a building and over the wall. Go into the forest. Follow the stumps until you see the wall of fog. You look up at the menacing mass and gulp. Aha! There's the axe. And it starts pouring. Great! Anyway, you crawl up some vines on the side of a tower and suddenly you hear a scream in the city. You see a maid on top of the tower at the south of the city pointing at a large imperial ship at the skydock with the dreadful insignia shown by the old man. A numerous host of violet-eyed soldiers poured out, some of them with flesh and bone showing. They have staffs and other nonfatal weapons. There are some vine elemental summoned enemies that can temporally give you an elemental power to entice you to continue playing. Each island has a new element, which the soldiers use for capture. Once you start fighting against them, a necromancer, Secrogar (SEC-ro-gar) appears to be raising up the fallen soldiers. He will overpower and capture you. Everything fades...)
+For the axe, you can find a way to climb on top of a building and over the wall. Go into the forest. Follow the stumps until you see the wall of fog. You look up at the menacing mass and gulp. Aha! There's the axe. And it starts pouring. Great! Anyway, you crawl up some vines on the side of a tower and suddenly you hear a scream in the city. You see a maid on top of the tower at the south of the city pointing at a large imperial ship at the skydock with the dreadful insignia shown by the old man. A numerous host of crimson-eyed soldiers poured out, some of them with flesh and bone showing. They have staffs and other nonfatal weapons. There are some vine elemental summoned enemies that can temporally give you an elemental power to entice you to continue playing. Each island has a new element, which the soldiers use for capture. Once you start fighting against them, a necromancer, Secrogar (SEC-ro-gar) appears to be raising up the fallen soldiers. He will overpower and capture you. Everything fades...)
 
 Dreeovni Woods Chapter 2: Isolation
 (You awaken without your items in the dungeon of the castle of the capital Alavance. Knock out a guard with a rock and take his key. You find your armor/potions and necklace in the hands of guards fighting over it. Sneak through the dungeon without getting killed. Escape through stealth, not through the main gate.
@@ -107,29 +108,23 @@ Nibeesa:
 "A dark creature is using my power. It's inside that fortress now. By killing elemental enemies, you can temporarily gain their power. In order to permanently gain the power, you must absorb the essence of the monster that has my power."
 
 Enemies:
-Giant Venus Fly Traps - Bewitched ivy is everywhere. Weakness to sharp blades. Cut it after a missed or blocked bite. (Green Elemental: Vine Snare)
-Whacking Willow - Quickly spins its limbs. Weakness to axe. Chop off its limbs (Green Elemental: Vine Snare)
-Goblins - Sneaky and fast, but weak defense and a weak dagger
-Goblin Warlocks - Rolls boulders at you with magic, but weak defense
-Orcs - Slower, louder, and beefier than goblins. Wields an axe.
-Giant Spiders - Silent and crawling around on webs. Touch the web and you'll get trapped and eaten. Get too close and they will jump at you and poison you. Block while it's pouncing, then aim for the head.
-Wolf Archers - Will shoot you from far away. If you get close, they will snap their bows with their teeth and go savage. You can't block them. Slash them in the correct direction while they pounce.
+	Saturn Fly Traps
+	Whacking Willow
+	Goblins
+	Goblin Warlocks
+	Orcs
+	Giant Spiders
+	Wolf Archers
 
 Traps:
-Bewitched Ivy - If you touch it with your body or a weapon, it will grab you with thorns and vines. You can wiggle free eventually, or an enemy will slash at you and free you, while hurting you.
+	Bewitched Ivy
 
-Boss: Golem Nypmh
-	She has a dress and hair of bewitched ivy. She has 2 medium thin blades. She will be quick and do spin attacks. Attack the vines and you will be ensnared. Once she is slow after a spin attack, smash her arms with the mace a few times to break off the stone shell. After breaking both arms, the cracks spread and reveal a pale nymph covered in ivy. Then she will summon bewitched ivy to try to kill you. Avoid the ivy and kill her. (Green Elemental: Vine Snare)
+Boss Fight: Golem Nymph
 
-Boss for Another Dungeon:
-You arrive in a quick room with a small window to see the full moon. You hear a loud, deep, monstrous howl and then the moon blocks out. Then it returns. You look behind you and see glowing green eyes in a shadow by a tunnel.
-Beast of the Forest: Ironfang - A giant wolf with an iron bow, armor, fangs, and claws. Once you look into it's green eyes, bewitched ivy appears and grabs you, then it will bite and claw you, which will hurt but be less effective. If you blind it with guidance, when it stares at you, it will be blinded and weakened. It can also shoot poison arrows at you with its bow. It can also howl and summon lots of wolf archers to attack you. It's a nasty one.
-
-Boss death: At the last strike, it goes into slow-mo and your weapon will catch fire with a green flame as you slash through the boss. Your Soul Gem is glowing green too. Now you can use the power any time you want. Its body will remain as a trophy.
+Boss death: At the last strike, slow-mo engages and your weapon will catch fire with a green flame as you slash through the nymph. Her eyes burst into flames, and then go into your ring. Your Skull Gem glows green. Now you can use the power any time you want. Her body will remain as a trophy.
 
 Dreeovni Woods Chapter 5: The Clearing
-The fog goes away from the forest. You see someone running around and follow them. Once you catch the person, you see that it's your brother! You embrace.
-"[Name!] It's so good to see you! I thought you were that monster. I was foolish and curious and it almost got me killed, but I was hiding in this tree trunk, so it never saw me. What? You killed it! You're my hero! Thank you so much."
-(Heart Gem #2)
+
+The fog fades away. I don't know what else happens. Maybe more side quests are unlocked. Maybe you can find clues as to where your family went.
 
 (Now you can explore the world and actually unlock more things.) You can choose from 3 island/dungeons in any order.

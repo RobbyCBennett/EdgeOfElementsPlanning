@@ -1,0 +1,13 @@
+Section, Color, Name, Debuff, Super Effective, Not Effective, Environment Strengths
+
+0, White, Light, -, Ethereal, Clouds of darkness, Guiding light
+
+1, Green, Vines, Slow, Stone, Fire & metal & plants, Climb walls & swing
+
+2, Orange, Fire, Gradual damage, Plant & flesh, Stone & metal & water & ice, Burn plant obstacles
+2, Blue, Ice & Water, Stop until ice is broken, Fire, Water & metal & bludgeoning, Freeze ice paths & stop water
+2, Yellow, Lightning, Brief pause, Ranged against water & metal, Melee against water & metal, Start contraptions
+
+3, Purple, Shadow, Blind, Eyes, Sightless, Remove clouds of darkness
+
+4, Red, Blood, Vampiric healing, Flesh, Ethereal & plant & construct, -
