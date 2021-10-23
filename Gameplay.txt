@@ -1,0 +1,38 @@
+Attacks:
+	Shield bash
+	Shield block
+	Stab, left/right slash
+
+Dungeon Design:
+	Nonlinear locked doors. If you find 1 key, you can choose between 2 or more locked doors, increasing the sense of breadth of the dungeon.
+	Hints: when hints are turned on, there will be a subtle sound from your guide when you enter a room with a key.
+
+Collect weapons that you can find through hard side quests and also the main quest.
+
+Weapons and Equipment:
+	Edgewood:
+	Woodland Axe (Required)
+	Woodland Mace (Required)
+	Woodland Brigandine (Required)
+	Woodland Shield (Required)
+
+Powers:
+	Red: Bleeding
+	Orange: Fire (Damages enemies over time)
+	Yellow: Lightning
+	Green: Vines (Slowly makes a trap to ensnare enemies)
+	Light Blue: Ice (Instantly ensnares enemies)
+	Blue: Water
+	Violet: Will-Bending
+	White: Guidance (Weapon lights up as you are facing a goal)
+	Black: Cloud of Darkness (Disables item use)
+	Gray: Earth (Cool ranged attack while breaking ground)
+
+Puzzles like from Portal, Antichamber, Zelda...
+
+All weapons you collect can use your collected elemental skills, which are useful in different cases. You can briefly try out new powers
+by defeating enemies that possess those elements. These elements also are helpful for puzzles.
+
+Engaging side quests. Cool places to explore with crazy challenges, like "50 floors of doom"
+
+Ability to decrease carrying capacity of items in exchange for carrying more ammo

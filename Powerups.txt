@@ -1,0 +1,31 @@
+Powering Up
+	1. Gaining more elements
+	2. More weapons
+	3. More protection
+	4. Specific element study
+	5. Weapon study
+	6. Element combo study
+	7. More health
+	8. More mana for special attacks
+	9. Item improvement
+	10. Boat improvement
+
+1.	(Main Quest) You gain more elements by beating bosses. You beat them with their own power, and you get it permanently.
+
+2.	(Main Quest) You get each weapon in the main quest, usually in dungeons.
+
+3.	(Main Quest) You get each armor/shield in the main quest, usually in dungeons.
+
+4.	(Side Quest) You power up the elements by training from a shaman. He teaches you of the power of focusing all of your soul on one power. You can do a special devastating attack for one element.
+
+5.	(Side Quest) You can study each weapon. By doing so, you are able to use combos with it.
+
+6.	(Side Quest) You can study the combination of elements, for example fire and sand yields glass, and water and earth yields mud.
+
+7.	(Side Quest) People will give you heart gems by showing them kindness.
+
+8.	(Side Quest) Mana vitality is improved by practicing with some ancient master warlock.
+
+9.	(Side Quest or Shop) You can improve certain items through magic or physical means. This could be a blacksmith working on your item because of a sidequest, a better arrow type unlocked, etc.
+
+10.	(Shop) You can get more cannons, faster sails, better durability, etc.

@@ -1,0 +1,135 @@
+Dreeovni Woods Chapter 0: Passage
+
+You are little. You, your parents, and your little sister Myan are finishing packing the skyboat. Your father is wearing his usual work tunic as the King's guard. Some houses are on fire. You hear a warhorn. "We have to go now!" says your dad. Your sister sparatically drops her things and runs to the house. You run after her to get her to safety. You see her pick up a glowing blue crystal on a necklace from under her pillow. "Happy birthday, [Name]. I found this by a creepy cave. It lights up when everything else is dark, like you. Do you promise to take me there to find more?"
+
+The warhorn is beating against your eardrums.
+
+"NOW!!!" Your dad rushes in and grabs both of you. He rushes out the door, carrying you both. As he runs to the boat, he is struck by an arrow. He sets you both down "I love you! Don't look back. Be brave. Run to Mother. Go!" You both run into your mother's arms in the boat. He fights off many of the invaders, but he is struck down by more arrows and stabbed.
+
+You all embark into the clouds, unfollowed.
+
+Dreeovni Woods Chapter 1: Nightfall
+
+Since it's almost harvesting season, you were trying to rest early tonight. You awake in the evening of your home of Dreeovni Woods to your little sister Myan shaking you. She says that she forgot the family's axe in the forest and doesn't want it to get rained on tonight, and the city gate has already closed. You wake up and can explore. There are not many sidequests, because life is good in Dreeovni Woods.
+
+Info: Old Storyteller:
+(Choose Dreeovni Woods)
+"I remember when the forest was a vast and open wood, bathed in the sunlight and the moonlight. The fog appeared in the forest many moons ago. No man has ever returned from the fog. Now it is the lair of the most beatiful woman in the sky. She lures her victims with her piercing gaze. Some say she keeps them as slaves, making them do her bidding. Others say they are tortured prisoners. Some even think she kills them. Either way, there are no survivors."
+Pirate Lad: "No survivors? Then, where do the stories come from? I wonder."
+Pirate Lass: "I don't care. What a barbaric and demeaning story."
+Old Storyteller: "It's true. I've seen her take someone with my own eyes."
+Another Lad: "But mister, aren't you blind?"
+Old Storyteller: "I think that's enough stories for tonight."
+(Choose Abroad)
+"I do not remember a time when there was peace, though we were far closer to it under the rule of the king. The world has been at war for far too long. The Witch Queen now has soverance over most of the Sky Realm. The loyalty of her servants is undeniable. They have unnatural lives, and no mercy. I visited another island and was confronted by her soldiers. I barely got away with my life, and I was left with this insignia."
+He holds up a tattered remain of a black flag with a glistening purple eye.
+Pirate Lass: "Ooo what a pretty pattern. But why are your stories always about evil women?"
+Old Storyteller: "I think that's enough stories for tonight."
+
+Shop: Creepy Teenage Potion Lad
+"Hey, you want some of the good stuff? I'm the only one here who can hook you up with the best."
+Potion of Healing I
+
+Shop: Blacksmith
+"I don't have a lot left, after most of the men of the village left to fight."
+Leather Armor
+
+Main story:
+For the axe, you can find a way to climb on top of a building and over the wall. Go into the forest. Follow the stumps until you see the wall of fog. You look up at the menacing mass and gulp. Aha! There's the axe. And it starts pouring. Great! Anyway, you crawl up some vines on the side of a tower and suddenly you hear a scream in the city. You see a maid on top of the tower at the south of the city pointing at a large imperial ship at the skydock with the dreadful insignia shown by the old man. A numerous host of violet-eyed soldiers poured out, some of them with flesh and bone showing. They have staffs and other nonfatal weapons. There are some vine elemental summoned enemies that can temporally give you an elemental power to entice you to continue playing. Each island has a new element, which the soldiers use for capture. Once you start fighting against them, a necromancer, Secrogar (SEC-ro-gar) appears to be raising up the fallen soldiers. He will overpower and capture you. Everything fades...)
+
+Dreeovni Woods Chapter 2: Isolation
+(You awaken without your items in the dungeon of the castle of the capital Alavance. Knock out a guard with a rock and take his key. You find your armor/potions and necklace in the hands of guards fighting over it. Sneak through the dungeon without getting killed. Escape through stealth, not through the main gate.
+
+You see a blue mystifying woman with a a gilded gown, swan-like mask, wings, and flowing sleeves. You also see your axe discarded nearby.
+
+"My name is Nibeesa. What is yours?"
+
+"(Name)"
+
+"(Name), I see that you are a vailiant and courageous (lad/lass). See those soldiers there? These men do not see their evil actions, but their hearts are pure. If you wish to restore freedom to this land, follow me."
+
+She flies to the cave and guides you through it.
+
+Navigate through the Cave of Skulls, which is heavily protected by guards outside and monsters inside. There are blue glowing gems, just like your necklace. At the second to last room, you have to rush in the last doorway and the way closes. Then, a large stone carved into a skull has a small mystical skull-shaped gem inside of the eye socket. As you pick it up, a crack in the gem glows. Nibeesa appears in her mortal form, in color. She has a black and silver-gilded gown, swan-like mask, silver wings, and flowing sleeves.
+
+She shows you some cave drawings that illustrate the story.
+
+"This cave was formed that it might seal my power, stored in this gem, and that of my sister. While I wish for the destruction of the gems, there is a greater cause now. Many moons ago, an adventurer heard of the great powers in this cavern. She had lost her loved ones to the hand of war. She desired to stop the brutality, no matter the cost. My sister, Cleeshnia, tricked her. She took the adventurer's mortal frame and possessed it."
+
+"She attempted to destroy this gem. I saw the fires of dark ambition in her eyes, and so I protected the stone that my powers might be used for good. Unable to extinguish my life, she fractured the gem and took my powers. I wish for both our powers to be sealed away."
+
+(She takes off her mask to reveal her scar.)
+
+"Will you help me regain my powers and put an end to her growing dominion of this world?"
+
+(If you disagree at first):
+"I see good in you. I understand if you feel overwhelmed. But, I will help you. You will not be alone."
+(You finally agree).
+
+(If you agree):
+"The guards and monsters protecting this cave must be approaching soon. We must return the rest of my powers, which I sense Cleeshnia has scattered across the islands. I will direct you and always be by your side."
+
+She goes back into the crystal, which goes into a ring on your hand. You have a new ability: guidance. Your sword glows white and shines light towards a new exit. Nibeesa will attempt to give you advice when discovering new areas, stuck in a certain area, and when fighting new enemies. You can accept or ignore her from materializing and talking to you. You can also turn off the feature entirely.
+
+You roll a large skull-carved stone out of the way which is a shortcut at the back of the cave. Nibeesa guides you to run towards an abandoned skydock.
+At this time you have arrived at the abandoned skydock. If you linger too long, you'll get captured by Cleeshnia herself and become a mindless soldier and lose. You see an old crappy sailboat and take it and fly home. The camera zooms out to show the boat fading into the sunset.
+
+Dreeovni Woods Chapter 3: Home
+As you draw near home, the town bears the insignia of Cleeshnia. Rosilila appears.
+"Oh, [player], I'm so sorry." She hugs you. "I hope your sister and mother are okay. Let's make sure not another town has to go through this nightmare." You nod, and then she returns to the ring.
+
+Some soldiers remain. Some villagers that fought back are now guards elsewhere. Those that didn't fight remain and must pay taxes to the Optika Empire. The villagers are in grief because of those that were taken by the dark magic.
+
+Required Quest: Blacksmith Apprentice:
+"I'm sorry about your mom and your sister. They fought vailiantly against the Optika Empire, but were taken. I do not know where though."
+You: "I want to go into the forest."
+"They say the evil in there is worse than the Empire. If you intend to go into the forest, I've got something just for you. I can finish it and you will have a devastating weapon. I just need a bit more iron."
+(You can steal iron from guards, or you might have some from your adventure so far.)
+"Great. I'll give it to you for a discount for all the help. Good luck."
+Reward: Woodland Mace
+
+Required Quest: Complaining Mother:
+"The soldiers are taxing us to death. We are hungry but we fear the wrath of the soldiers. Can you sneak into the mill and get a bag of grain for us?"
+Reward: Woodland Shield
+"Thank you so much! If you intend to go into the fog, you could use this more than me."
+
+Sidequest: Maiden Musician:
+"I dropped my favorite instrument, my vielle, in the forest and I can't seem to find it. Can you help me look for it?"
+Reward: Heart Gem #1 (Extra health)
+"A lad gave me this heart once, but he didn't give me his heart. Haha. It's yours now."
+
+(If you use the guidance power before getting the mace and shield, Nibeesa will just advise you to help the villagers and also see if you can get anything to help in the journey. Once you have them, you can go through the fog and avoid the beast. If you don't follow her guidance or are too slow, you see glowing green eyes, get ensnared by vines, and get hit in the head.)
+
+Dreeovni Woods Chapter 4: The Forgotten Fortress
+(You see an overgrown fortress in the forest amidst many dead trees.)
+
+Nibeesa:
+"A dark creature is using my power. It's inside that fortress now. By killing elemental enemies, you can temporarily gain their power. In order to permanently gain the power, you must absorb the essence of the monster that has my power."
+
+Enemies:
+Giant Venus Fly Traps - Bewitched ivy is everywhere. Weakness to sharp blades. Cut it after a missed or blocked bite. (Green Elemental: Vine Snare)
+Whacking Willow - Quickly spins its limbs. Weakness to axe. Chop off its limbs (Green Elemental: Vine Snare)
+Goblins - Sneaky and fast, but weak defense and a weak dagger
+Goblin Warlocks - Rolls boulders at you with magic, but weak defense
+Orcs - Slower, louder, and beefier than goblins. Wields an axe.
+Giant Spiders - Silent and crawling around on webs. Touch the web and you'll get trapped and eaten. Get too close and they will jump at you and poison you. Block while it's pouncing, then aim for the head.
+Wolf Archers - Will shoot you from far away. If you get close, they will snap their bows with their teeth and go savage. You can't block them. Slash them in the correct direction while they pounce.
+
+Traps:
+Bewitched Ivy - If you touch it with your body or a weapon, it will grab you with thorns and vines. You can wiggle free eventually, or an enemy will slash at you and free you, while hurting you.
+
+Boss: Golem Nypmh
+	She has a dress and hair of bewitched ivy. She has 2 medium thin blades. She will be quick and do spin attacks. Attack the vines and you will be ensnared. Once she is slow after a spin attack, smash her arms with the mace a few times to break off the stone shell. After breaking both arms, the cracks spread and reveal a pale nymph covered in ivy. Then she will summon bewitched ivy to try to kill you. Avoid the ivy and kill her. (Green Elemental: Vine Snare)
+
+Boss for Another Dungeon:
+You arrive in a quick room with a small window to see the full moon. You hear a loud, deep, monstrous howl and then the moon blocks out. Then it returns. You look behind you and see glowing green eyes in a shadow by a tunnel.
+Beast of the Forest: Ironfang - A giant wolf with an iron bow, armor, fangs, and claws. Once you look into it's green eyes, bewitched ivy appears and grabs you, then it will bite and claw you, which will hurt but be less effective. If you blind it with guidance, when it stares at you, it will be blinded and weakened. It can also shoot poison arrows at you with its bow. It can also howl and summon lots of wolf archers to attack you. It's a nasty one.
+
+Boss death: At the last strike, it goes into slow-mo and your weapon will catch fire with a green flame as you slash through the boss. Your Soul Gem is glowing green too. Now you can use the power any time you want. Its body will remain as a trophy.
+
+Dreeovni Woods Chapter 5: The Clearing
+The fog goes away from the forest. You see someone running around and follow them. Once you catch the person, you see that it's your brother! You embrace.
+"[Name!] It's so good to see you! I thought you were that monster. I was foolish and curious and it almost got me killed, but I was hiding in this tree trunk, so it never saw me. What? You killed it! You're my hero! Thank you so much."
+(Heart Gem #2)
+
+(Now you can explore the world and actually unlock more things.) You can choose from 3 island/dungeons in any order.

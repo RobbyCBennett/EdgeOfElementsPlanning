@@ -1,0 +1,10 @@
+General Vibe:
+ - Similar to album art of "Home of the brave" by Heroic
+ - Character styles like LLadro figurines
+
+Menu:
+ - Black and white until you hover/scroll over stuff. Then it animates with color.
+
+
+
+

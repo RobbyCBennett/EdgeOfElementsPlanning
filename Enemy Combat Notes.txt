@@ -1,0 +1,59 @@
+No useless NPCs:
+Nobody likes escort missions. NPCs that fight with you can be okay, but then spawn more enemies.
+
+No guide:
+NO FAIRY THAT TELLS YOU WHAT TO DO!
+
+Special combos:
+You can do cool moves by unlocking them, but it should be somewhat of a challenge to set it up, by first fitting enemies in certain ways. Don't make it easy by just hitting a key to do a certain move. If you're sloppy, enemies will take advantage.
+
+Constant attacks:
+Don't have long periods of time where they just stand there because of exhaustion. It makes it too easy. Especially bosses. Bosses should never just walk towards you slowly also.
+
+No cowardice for you:
+Backflips/sideflips to avoid danger won't save you. You must parry or use a shield to block attacks.
+
+No cowardice for enemies:
+Most enemies in Doom avoid cover. This is why it's fun to constantly kill them. When enemies go invisible, it should be because they left a trap behind for you, or they're going to stab you in the back.
+
+Variety of attacks:
+Enemies need a variety of attacks, not just stabs and not just throwing things at you. Have enemies that can grab you/grab your sword. Some moves can be faster. Have enemies that pull you into their own realm. Have crazy status effects. Timed traps that they set, etc. If a boss only has 1 attack, then it will be boring. Some require maces rather than swords to slay.
+
+Tricky weaknesses:
+Never make the weakness of an enemy an obvious glowing eye/crystal.
+
+Circle around you:
+Enemies will walk in circles around you and stay away from your swing.
+
+Dynamic arenas:
+Don't just to a round room for fights. Have various platforms for enemies to hop around on. Have them crawl on ceilings/walls. Have them hop in and out of holes. Have long and narrow hallways. Make an enemy/boss that can shrink the room. Have a boss that destroys pillars which collapses the room. Have a boss on in the ocean, a sea of sinking sand, or in the sky. Have a boss fight around a giant spiral staircase.
+
+Enemies are smart:
+Enemies will avoid the traps that you make, like firewalls. Many will be able to block your random slashing. Some will be quick enough to block arrows and other projectiles. Some can even avoid special combos.
+
+No underwater enemies:
+Nobody likes water levels. Your movement is just too slow.
+
+No easy phase 1:
+Don't make the early phases of a boss too easy. It should go from phase 1: challenging to phase 2: barely possible.
+
+Possible to avoid all damage:
+Make it possible, but very very difficult to avoid damage from bosses and hard enemies. Enemies do VERY brief telegraphs of attacks so if you're very skilled you can avoid damage.
+
+No auto-targeting:
+Don't make games designed for crappy Nintendo controllers.
+
+No easy regen:
+No hearts/mana that randomly appear out of fallen enemies. They may drop potions, but that takes time to take and consume.
+
+Directionality:
+You have to pick a direction to swing/stab, and then click again to actually swing. If your sword is on your right, you can't randomly swing  from the left.
+
+Many enemies = bad news:
+In many games, you have too much of an invincibility frame. Design combat so that if one enemy causes you to stumble/staggar, the rest of the horde will take advantage.
+
+Harder difficulties:
+A harder difficulty should have better blocking, faster enemies, more variety in attacks, harder to dodge attacks, no healing potions in dungeons, etc. Not just increased damage.
+
+Stamina:
+You can't endlessly do fancy combos.
